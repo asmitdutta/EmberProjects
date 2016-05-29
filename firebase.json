@@ -1,0 +1,8 @@
+{
+  "firebase": "dazzling-heat-2284",
+  "public": "dist",
+  "rewrites": [{
+    "source": "**",
+    "destination": "/index.html"
+  }]
+}
